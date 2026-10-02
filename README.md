@@ -48,3 +48,16 @@ This section tracks risk exposure, security performance, and control effectivene
 - Control Effectiveness: Compromises involving MFA enabled accounts decrease from 4 to 1, helping evaluate whether MFA is contributing to risk reduction.
 - Trend Analysis: Compares MFA adoption with account compromises over time, showing higher MFA coverage alongside fewer successful compromises.
 #### Purpose: Use measurable indicators and trends to monitor cyber risk, evaluate control effectiveness, and provide leadership with information to support risk based decisions.
+
+### FAIR Risk Quantification Inputs
+<img width="1074" height="781" alt="image" src="https://github.com/user-attachments/assets/e6e7db98-e36e-4588-8571-5ba7704195b7" />
+
+###
+
+This section uses FAIR (Factor Analysis of Information Risk) concepts to translate cyber risk into estimated financial exposure.
+- Loss Event Frequency: Estimates how often the risk event could occur annually using low, most likely, and high assumptions.
+- Primary Loss: Estimates direct costs such as fraud/reimbursement and incident response.
+- Secondary Loss: Estimates indirect costs including regulatory/legal expenses and reputation/recovery costs.
+- Range-Based Estimates: Low, most-likely, and high values account for uncertainty instead of relying on a single fixed estimate.
+- Monte Carlo Input: These assumptions are used as inputs for the simulation to model a range of possible financial outcomes.
+Purpose: Quantify cyber risk in financial terms so leadership can better understand the potential frequency and magnitude of loss and make informed risk treatment decisions.

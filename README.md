@@ -10,7 +10,6 @@ Important: All organizations, data, assumptions, financial values, and risk rati
 
 <img width="1403" height="782" alt="image" src="https://github.com/user-attachments/assets/0c9664c9-0b6f-4478-81b5-820c2658e4b9" />
 
-### Executive Cyber Risk Dashboard
 
 This dashboard provides an executive level view of the cyber risk scenario assessed in this project. The scenario focuses on credential theft leading to customer account compromise affecting a fictional financial institution's online banking platform.
 
@@ -25,3 +24,11 @@ The purpose of this dashboard is to demonstrate how technical cybersecurity info
 ### Risk Register 
 <img width="1785" height="780" alt="image" src="https://github.com/user-attachments/assets/fc748b9a-eaf2-45c5-96f5-b62c22d89a1d" />
 
+
+The Risk Register provides a structured view of the key cyber risks identified across critical business assets and shows how each risk is assessed, treated, owned, and monitored.
+- Critical Assets & Risk Scenarios: Identifies assets such as the Online Banking Platform and Customer Data, along with risks including credential theft, DDoS attacks, and unauthorized data access.
+- Risk Assessment: Evaluates each scenario based on likelihood and business impact to determine the inherent risk before security controls are considered.
+- Risk Treatment: Documents the selected response and key controls, including MFA, suspicious-login monitoring, DDoS protection, encryption, and access controls.
+- Residual Risk: Shows the level of risk that remains after controls are implemented, allowing it to be compared with the organization's risk tolerance.
+- Risk Ownership & Monitoring: Assigns responsibility to the appropriate security function and tracks whether the risk requires continued monitoring.
+Purpose: Create a centralized record for identifying, assessing, treating, assigning, and monitoring cyber risks, while supporting consistent risk reporting and informed decision-making

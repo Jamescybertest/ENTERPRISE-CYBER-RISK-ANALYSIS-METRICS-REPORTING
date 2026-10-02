@@ -30,7 +30,7 @@ The purpose of this dashboard is to demonstrate how technical cybersecurity info
 The Risk Register provides a structured view of the key cyber risks identified across critical business assets and shows how each risk is assessed, treated, owned, and monitored.
 - Critical Assets & Risk Scenarios: Identifies assets such as the Online Banking Platform and Customer Data, along with risks including credential theft, DDoS attacks, and unauthorized data access.
 - Risk Assessment: Evaluates each scenario based on likelihood and business impact to determine the inherent risk before security controls are considered.
-- Risk Treatment: Documents the selected response and key controls, including MFA, suspicious-login monitoring, DDoS protection, encryption, and access controls.
+- Risk Treatment: Documents the selected response and key controls, including MFA, suspicious login monitoring, DDoS protection, encryption, and access controls.
 - Residual Risk: Shows the level of risk that remains after controls are implemented, allowing it to be compared with the organization's risk tolerance.
 - Risk Ownership & Monitoring: Assigns responsibility to the appropriate security function and tracks whether the risk requires continued monitoring.
-Purpose: Create a centralized record for identifying, assessing, treating, assigning, and monitoring cyber risks, while supporting consistent risk reporting and informed decision-making
+Purpose: Create a centralized record for identifying, assessing, treating, assigning, and monitoring cyber risks, while supporting consistent risk reporting and informed decision making

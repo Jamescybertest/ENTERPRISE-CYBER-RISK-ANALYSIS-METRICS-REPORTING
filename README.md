@@ -58,6 +58,6 @@ This section uses FAIR (Factor Analysis of Information Risk) concepts to transla
 - Loss Event Frequency: Estimates how often the risk event could occur annually using low, most likely, and high assumptions.
 - Primary Loss: Estimates direct costs such as fraud/reimbursement and incident response.
 - Secondary Loss: Estimates indirect costs including regulatory/legal expenses and reputation/recovery costs.
-- Range-Based Estimates: Low, most-likely, and high values account for uncertainty instead of relying on a single fixed estimate.
+- Range Based Estimates: Low, most likely, and high values account for uncertainty instead of relying on a single fixed estimate.
 - Monte Carlo Input: These assumptions are used as inputs for the simulation to model a range of possible financial outcomes.
 Purpose: Quantify cyber risk in financial terms so leadership can better understand the potential frequency and magnitude of loss and make informed risk treatment decisions.

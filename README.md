@@ -5,7 +5,8 @@ Using a fictional financial-services organization, I assessed the risk of creden
 
 ## Project objectives: 
 identify a critical business asset and cyber risk scenario; assess likelihood and business impact; quantify financial exposure using FAIR concepts and Monte Carlo simulation; recommend risk treatment and security controls; measure residual risk using KPIs, KRIs, trends, and control effectiveness; and communicate the results through executive level reporting.
-Important: All organizations, data, assumptions, financial values, and risk ratings in this project are fictional and were created for learning and portfolio purposes.
+#### Important: All organizations, data, assumptions, financial values, and risk ratings in this project are fictional and were created for learning and portfolio purposes.
+
 ### Executive Cyber Risk Dashboard
 
 <img width="1403" height="782" alt="image" src="https://github.com/user-attachments/assets/0c9664c9-0b6f-4478-81b5-820c2658e4b9" />
@@ -76,9 +77,15 @@ This section uses a 10,000 trial Monte Carlo simulation to estimate potential an
 - Data: All assumptions and financial values are fictional and used for portfolio purposes.
 #### Purpose is to Demonstrate how uncertainty in cyber risk can be modeled to provide leadership with a range of potential financial outcomes for risk based decision-making.
 
-
-
-
+## Final Summary & Lessons Learned
+This project demonstrates how technical cybersecurity risks can be translated into measurable business risk using risk assessments, KPIs, KRIs, control effectiveness, FAIR quantification, Monte Carlo simulation, and executive reporting.
+### Key Takeaways
+- Assess both likelihood and business impact of cyber risks.
+- Measure inherent and residual risk before and after controls.
+- Use KPIs, KRIs, and trends to monitor risk and control effectiveness.
+- Use FAIR and Monte Carlo simulation to express uncertainty and potential financial exposure.
+- Translate technical findings into clear information that supports leadership decision making.
+#### Main Lesson: Effective cyber risk reporting connects technical security findings → business impact → measurable risk → informed decisions.
 
 
 

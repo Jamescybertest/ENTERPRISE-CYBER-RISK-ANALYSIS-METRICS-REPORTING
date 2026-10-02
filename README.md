@@ -1,5 +1,5 @@
 # ENTERPRISE-CYBER-RISK-ANALYSIS-METRICS-REPORTING
-Enterprise Cyber Risk Analysis &amp; Metrics Reporting This portfolio project demonstrates how technical cybersecurity findings can be translated into enterprise cyber-risk analysis, measurable risk indicators, FAIR-style risk quantification, and executive-level reporting.  
+Enterprise Cyber Risk Analysis &amp; Metrics Reporting This portfolio project demonstrates how technical cybersecurity findings can be translated into enterprise cyber risk analysis, measurable risk indicators, FAIR style risk quantification, and executive level reporting.  
 
 Using a fictional financial-services organization, I assessed the risk of credential theft and customer account compromise affecting an online banking platform. I then developed risk treatments, KPIs, KRIs, control effectiveness measures, a FAIR style Monte Carlo simulation, and a one page executive dashboard.
 
@@ -13,7 +13,7 @@ Important: All organizations, data, assumptions, financial values, and risk rati
 
 This dashboard provides an executive level view of the cyber risk scenario assessed in this project. The scenario focuses on credential theft leading to customer account compromise affecting a fictional financial institution's online banking platform.
 
-### The dashboard brings together the key elements of the risk assessment:
+#### The dashboard brings together the key elements of the risk assessment:
 - Risk Overview: Identifies the critical asset, risk scenario, potential business impact, inherent risk, selected treatment strategy, and residual risk after controls.
 - FAIR Quantification: Introduces financial risk quantification using loss event frequency and loss magnitude, supported by a 10,000 trial Monte Carlo simulation.
 - Risk Metrics: Uses a KPI to measure MFA adoption, a KRI to monitor successful account compromises, and a control effectiveness metric to evaluate whether MFA is reducing account compromise risk.

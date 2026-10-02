@@ -7,6 +7,22 @@ Using a fictional financial-services organization, I assessed the risk of creden
 identify a critical business asset and cyber risk scenario; assess likelihood and business impact; quantify financial exposure using FAIR concepts and Monte Carlo simulation; recommend risk treatment and security controls; measure residual risk using KPIs, KRIs, trends, and control effectiveness; and communicate the results through executive level reporting.
 #### Important: All organizations, data, assumptions, financial values, and risk ratings in this project are fictional and were created for learning and portfolio purposes.
 
+
+### Enterprise Risk Analysis & Cyber Metrics Reporting
+<img width="1162" height="628" alt="image" src="https://github.com/user-attachments/assets/0b6ec77e-f0c2-4f40-8dc7-06c9ec695f2e" />
+
+
+
+###
+One Page Executive Risk Dashboard
+This dashboard consolidates the project’s key findings into an executive-level view for leadership.
+- Risk Overview: Summarizes the critical asset, risk scenario, business impact, inherent risk, treatment, and residual risk.
+- FAIR / Monte Carlo: Quantifies potential financial exposure using 10,000 simulated outcomes, including median, mean, and 90th-percentile annual loss.
+- Risk Metrics: Presents KPIs, KRIs, control effectiveness, and trends to show current risk exposure and security performance.
+- Management Recommendation: Translates the analysis into actionable recommendations, including strengthening MFA, monitoring risk trends, and comparing residual risk against organizational risk tolerance.
+Purpose: Provide leadership with a concise view of risk exposure, financial impact, control performance, and recommended actions to support informed risk decisions.
+
+
 ### Executive Cyber Risk Dashboard
 
 <img width="1403" height="782" alt="image" src="https://github.com/user-attachments/assets/0c9664c9-0b6f-4478-81b5-820c2658e4b9" />

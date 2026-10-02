@@ -47,7 +47,7 @@ This section tracks risk exposure, security performance, and control effectivene
 - Suspicious Login Alerts: Monitors potentially risky authentication activity and increases from 420 to 560 alerts.
 - Control Effectiveness: Compromises involving MFA enabled accounts decrease from 4 to 1, helping evaluate whether MFA is contributing to risk reduction.
 - Trend Analysis: Compares MFA adoption with account compromises over time, showing higher MFA coverage alongside fewer successful compromises.
-#### Purpose: Use measurable indicators and trends to monitor cyber risk, evaluate control effectiveness, and provide leadership with information to support risk based decisions.
+#### Purpose is to use measurable indicators and trends to monitor cyber risk, evaluate control effectiveness, and provide leadership with information to support risk based decisions.
 
 ### FAIR Risk Quantification Inputs
 <img width="1074" height="781" alt="image" src="https://github.com/user-attachments/assets/e6e7db98-e36e-4588-8571-5ba7704195b7" />
@@ -60,7 +60,7 @@ This section uses FAIR (Factor Analysis of Information Risk) concepts to transla
 - Secondary Loss: Estimates indirect costs including regulatory/legal expenses and reputation/recovery costs.
 - Range Based Estimates: Low, most likely, and high values account for uncertainty instead of relying on a single fixed estimate.
 - Monte Carlo Input: These assumptions are used as inputs for the simulation to model a range of possible financial outcomes.
-#### Purpose: Quantify cyber risk in financial terms so leadership can better understand the potential frequency and magnitude of loss and make informed risk treatment decisions.
+#### Purpose is to Quantify cyber risk in financial terms so leadership can better understand the potential frequency and magnitude of loss and make informed risk treatment decisions.
 
 
 ### Monte Carlo Risk Simulation
@@ -74,7 +74,7 @@ This section uses a 10,000 trial Monte Carlo simulation to estimate potential an
 - Annual Loss Exposure: Combines frequency and magnitude to estimate potential yearly loss.
 - Simulation Results: Produced a mean annual loss of ~$2.22M, median of ~$2.11M, and 90th percentile of ~$3.48M.
 - Data: All assumptions and financial values are fictional and used for portfolio purposes.
-Purpose: Demonstrate how uncertainty in cyber risk can be modeled to provide leadership with a range of potential financial outcomes for risk-based decision-making.
+#### Purpose is to Demonstrate how uncertainty in cyber risk can be modeled to provide leadership with a range of potential financial outcomes for risk based decision-making.
 
 
 

@@ -35,6 +35,16 @@ The Risk Register provides a structured view of the key cyber risks identified a
 - Risk Ownership & Monitoring: Assigns responsibility to the appropriate security function and tracks whether the risk requires continued monitoring.
 #### Purpose is to Create a centralized record for identifying, assessing, treating, assigning, and monitoring cyber risks, while supporting consistent risk reporting and informed decision making
 
-### Risk Metrics
+### Risk Metrics & Trend Analysis
 <img width="1716" height="778" alt="image" src="https://github.com/user-attachments/assets/d013edaf-8e34-49fe-8ce2-b3d1c4dc4d3e" />
 
+###
+
+
+This section tracks risk exposure, security performance, and control effectiveness over time to show whether the identified risk is improving or worsening.
+- KPI – MFA Coverage: Measures security performance, increasing from 82% to 94%.
+- KRI – Account Compromises: Tracks risk exposure, decreasing from 12 to 6 successful compromises per month.
+- Suspicious Login Alerts: Monitors potentially risky authentication activity and increases from 420 to 560 alerts.
+- Control Effectiveness: Compromises involving MFA enabled accounts decrease from 4 to 1, helping evaluate whether MFA is contributing to risk reduction.
+- Trend Analysis: Compares MFA adoption with account compromises over time, showing higher MFA coverage alongside fewer successful compromises.
+#### Purpose: Use measurable indicators and trends to monitor cyber risk, evaluate control effectiveness, and provide leadership with information to support risk based decisions.

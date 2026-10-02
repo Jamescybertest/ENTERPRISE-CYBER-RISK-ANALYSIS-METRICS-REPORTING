@@ -6,6 +6,7 @@ Using a fictional financial-services organization, I assessed the risk of creden
 ## Project objectives: 
 identify a critical business asset and cyber risk scenario; assess likelihood and business impact; quantify financial exposure using FAIR concepts and Monte Carlo simulation; recommend risk treatment and security controls; measure residual risk using KPIs, KRIs, trends, and control effectiveness; and communicate the results through executive level reporting.
 Important: All organizations, data, assumptions, financial values, and risk ratings in this project are fictional and were created for learning and portfolio purposes.
+### Executive Cyber Risk Dashboard
 
 <img width="1403" height="782" alt="image" src="https://github.com/user-attachments/assets/0c9664c9-0b6f-4478-81b5-820c2658e4b9" />
 
@@ -21,5 +22,6 @@ This dashboard provides an executive level view of the cyber risk scenario asses
 - Management Decision: Provides a section for translating the technical findings into information leadership can use to evaluate residual risk against risk tolerance and determine whether additional treatment is required.
 The purpose of this dashboard is to demonstrate how technical cybersecurity information can be transformed into measurable business risk information for executive decision-making
 
+### Risk Register 
 <img width="1785" height="780" alt="image" src="https://github.com/user-attachments/assets/fc748b9a-eaf2-45c5-96f5-b62c22d89a1d" />
 

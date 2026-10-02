@@ -20,7 +20,7 @@ This dashboard provides an executive level view of the cyber risk scenario asses
 - Risk Metrics: Uses a KPI to measure MFA adoption, a KRI to monitor successful account compromises, and a control effectiveness metric to evaluate whether MFA is reducing account compromise risk.
 - Risk Trend: Tracks account compromises alongside MFA coverage over time. In this fictional dataset, MFA coverage increases from 82% to 94%, while successful account compromises decrease from 12 to 6 per month.
 - Management Decision: Provides a section for translating the technical findings into information leadership can use to evaluate residual risk against risk tolerance and determine whether additional treatment is required.
-The purpose of this dashboard is to demonstrate how technical cybersecurity information can be transformed into measurable business risk information for executive decision-making
+#### The purpose of this dashboard is to demonstrate how technical cybersecurity information can be transformed into measurable business risk information for executive decision making
 
 ### Risk Register 
 <img width="1785" height="780" alt="image" src="https://github.com/user-attachments/assets/fc748b9a-eaf2-45c5-96f5-b62c22d89a1d" />
@@ -33,4 +33,8 @@ The Risk Register provides a structured view of the key cyber risks identified a
 - Risk Treatment: Documents the selected response and key controls, including MFA, suspicious login monitoring, DDoS protection, encryption, and access controls.
 - Residual Risk: Shows the level of risk that remains after controls are implemented, allowing it to be compared with the organization's risk tolerance.
 - Risk Ownership & Monitoring: Assigns responsibility to the appropriate security function and tracks whether the risk requires continued monitoring.
-Purpose: Create a centralized record for identifying, assessing, treating, assigning, and monitoring cyber risks, while supporting consistent risk reporting and informed decision making
+#### Purpose is to Create a centralized record for identifying, assessing, treating, assigning, and monitoring cyber risks, while supporting consistent risk reporting and informed decision making
+
+### Risk Metrics
+<img width="1716" height="778" alt="image" src="https://github.com/user-attachments/assets/d013edaf-8e34-49fe-8ce2-b3d1c4dc4d3e" />
+

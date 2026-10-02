@@ -20,3 +20,6 @@ This dashboard provides an executive level view of the cyber risk scenario asses
 - Risk Trend: Tracks account compromises alongside MFA coverage over time. In this fictional dataset, MFA coverage increases from 82% to 94%, while successful account compromises decrease from 12 to 6 per month.
 - Management Decision: Provides a section for translating the technical findings into information leadership can use to evaluate residual risk against risk tolerance and determine whether additional treatment is required.
 The purpose of this dashboard is to demonstrate how technical cybersecurity information can be transformed into measurable business risk information for executive decision-making
+
+<img width="1785" height="780" alt="image" src="https://github.com/user-attachments/assets/fc748b9a-eaf2-45c5-96f5-b62c22d89a1d" />
+

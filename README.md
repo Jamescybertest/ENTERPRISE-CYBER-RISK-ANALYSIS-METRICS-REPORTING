@@ -60,4 +60,27 @@ This section uses FAIR (Factor Analysis of Information Risk) concepts to transla
 - Secondary Loss: Estimates indirect costs including regulatory/legal expenses and reputation/recovery costs.
 - Range Based Estimates: Low, most likely, and high values account for uncertainty instead of relying on a single fixed estimate.
 - Monte Carlo Input: These assumptions are used as inputs for the simulation to model a range of possible financial outcomes.
-Purpose: Quantify cyber risk in financial terms so leadership can better understand the potential frequency and magnitude of loss and make informed risk treatment decisions.
+#### Purpose: Quantify cyber risk in financial terms so leadership can better understand the potential frequency and magnitude of loss and make informed risk treatment decisions.
+
+
+### Monte Carlo Risk Simulation
+<img width="1388" height="778" alt="image" src="https://github.com/user-attachments/assets/4eb48c69-c7b9-47d9-872b-1ffbc8a011fa" />
+
+###
+
+This section uses a 10,000 trial Monte Carlo simulation to estimate potential annual financial exposure from the cyber risk scenario.
+- Simulated Frequency: Models how often the loss event could occur.
+- Simulated Loss Magnitude: Estimates the financial impact when the event occurs.
+- Annual Loss Exposure: Combines frequency and magnitude to estimate potential yearly loss.
+- Simulation Results: Produced a mean annual loss of ~$2.22M, median of ~$2.11M, and 90th percentile of ~$3.48M.
+- Data: All assumptions and financial values are fictional and used for portfolio purposes.
+Purpose: Demonstrate how uncertainty in cyber risk can be modeled to provide leadership with a range of potential financial outcomes for risk-based decision-making.
+
+
+
+
+
+
+
+
+

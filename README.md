@@ -4,7 +4,7 @@ Enterprise Cyber Risk Analysis &amp; Metrics Reporting this portfolio project de
 Using a fictional financial services organization, I assessed the risk of credential theft and customer account compromise affecting an online banking platform. I then developed risk treatments, KPIs, KRIs, control effectiveness measures, a FAIR style Monte Carlo simulation, and a one page executive dashboard.
 
 ## Project objectives: 
-identify a critical business asset and cyber risk scenario; assess likelihood and business impact; quantify financial exposure using FAIR concepts and Monte Carlo simulation; recommend risk treatment and security controls; measure residual risk using KPIs, KRIs, trends, and control effectiveness; and communicate the results through executive level reporting.
+Identify a critical business asset and cyber risk scenario; assess likelihood and business impact; quantify financial exposure using FAIR concepts and Monte Carlo simulation; recommend risk treatment and security controls; measure residual risk using KPIs, KRIs, trends, and control effectiveness; and communicate the results through executive level reporting.
 #### Important: All organizations, data, assumptions, financial values, and risk ratings in this project are fictional and were created for learning and portfolio purposes.
 
 
@@ -15,7 +15,7 @@ identify a critical business asset and cyber risk scenario; assess likelihood an
 
 ###
 One Page Executive Risk Dashboard
-This dashboard consolidates the project’s key findings into an executive-level view for leadership.
+This dashboard consolidates the project’s key findings into an executive level view for leadership.
 - Risk Overview: Summarizes the critical asset, risk scenario, business impact, inherent risk, treatment, and residual risk.
 - FAIR / Monte Carlo: Quantifies potential financial exposure using 10,000 simulated outcomes, including median, mean, and 90th-percentile annual loss.
 - Risk Metrics: Presents KPIs, KRIs, control effectiveness, and trends to show current risk exposure and security performance.

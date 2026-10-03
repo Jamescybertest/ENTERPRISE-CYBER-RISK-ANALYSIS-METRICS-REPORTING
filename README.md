@@ -14,7 +14,6 @@ Identify a critical business asset and cyber risk scenario; assess likelihood an
 
 
 ###
-One Page Executive Risk Dashboard
 This dashboard consolidates the project’s key findings into an executive level view for leadership.
 - Risk Overview: Summarizes the critical asset, risk scenario, business impact, inherent risk, treatment, and residual risk.
 - FAIR / Monte Carlo: Quantifies potential financial exposure using 10,000 simulated outcomes, including median, mean, and 90th-percentile annual loss.
